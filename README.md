@@ -1,3 +1,1 @@
-# tccfullstack
-fronttcc-rho.vercel.app
-vercel
+api-completa
